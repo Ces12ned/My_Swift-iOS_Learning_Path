@@ -1,4 +1,2 @@
-<p align ="center">
-  # ¡Let's Swift! #  
-</p>
+# ¡Let's Swift! #
 
