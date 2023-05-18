@@ -12,29 +12,42 @@
 * ### [ViewController Life Cycle][2] ###
   
   
+<h2 align="left"> Views and Controls </h2>  
+<h3 align="left"> UIView </h3> 
+* ### [Frame vs Bounds][3] ###
   
+<h3 align="left"> Container Views </h3>  
+
+  * ### [Collection Views][4] ###
+  * ### [Table Views][5] ###
+  * ### [UIStackView][6] ###
+  * ### [UIScrollView][7] ###
+  
+<h3 align="left"> Content Views </h3>  
+<h3 align="left"> Controls </h3>  
   
 <h2 align="left"> iOS Architecture </h2>  
   
-* ### [MVC][3] ###
-* ### [MVVM][4] ###
-* ### [VIPER][5] ###
+* ### [MVC][8] ###
+* ### [MVVM][9] ###
+* ### [VIPER][10] ###
   
   
   
 
 <h3 align="left"> Functional Reactive Programming </h3>  
   
-* ### [Combine][6] ###
+* ### [Combine][11] ###
 
 [1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/App-Life-Cycle
 [2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/ViewController-Life-Cycle
-[3]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVC
-[4]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
-[5]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
+[3]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Frame-vs-Bounds
+[8]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVC
+[9]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
+[10]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
 
   
-[6]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+[11]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
  
 
   
