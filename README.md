@@ -6,11 +6,22 @@
 
 ---
 
-
-<h2 align="left"> Reactive Swift </h2>  
   
+<h2 align="left"> iOS Architecture </h2>  
+  
+* ### [MVC][1] ###
+* ### [MVVM][1] ###
+* ### [VIPER][1] ###
+  
+  
+  
+
+<h3 align="left"> Functional Reactive Programming </h3>  
   
 * ### [Combine][1] ###
 
 
-[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+[2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+
+  
+  
