@@ -10,18 +10,24 @@
 <h2 align="left"> iOS Architecture </h2>  
   
 * ### [MVC][1] ###
-* ### [MVVM][1] ###
-* ### [VIPER][1] ###
+* ### [MVVM][2] ###
+* ### [VIPER][3] ###
   
   
   
 
 <h3 align="left"> Functional Reactive Programming </h3>  
   
-* ### [Combine][1] ###
+* ### [Combine][4] ###
 
 
-[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVC
+[2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
+[3]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
+
+  
+[4]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+ 
 
   
   
