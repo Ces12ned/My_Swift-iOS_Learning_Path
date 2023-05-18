@@ -7,7 +7,7 @@
 
   * ### [Struct vs Class][1] ###
   * ### [Closures][2] ###
-  * ### [Protocols[3] ###
+  * ### [Protocols][3] ###
   * ### [Memory management][4] ###
  
  [1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Struct-vs-Class
