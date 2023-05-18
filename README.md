@@ -6,5 +6,8 @@
 ---
 
   * ### [Struct vs Class][1] ###
-  
-  [1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Struct-vs-Class
+  * ### [Closures][2] ###
+ 
+ [1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Struct-vs-Class
+ 
+ [2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Closures
