@@ -21,7 +21,7 @@
 * ### [Combine][1] ###
 
 
-[2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
 
   
   
