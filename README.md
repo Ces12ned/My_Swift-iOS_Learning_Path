@@ -43,7 +43,7 @@
   
 <h2 align="left"> Networking, JSON Parsing <---> API</h2>    
  
-* ### [Networking, JSON Parsing <---> API][12] ###  
+* ### [Networking][12] ###  
   
 
 [1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/App-Life-Cycle
@@ -57,7 +57,7 @@
 [9]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
 [10]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
 [11]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
-[12]:
+[12]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Networking
  
 
   
