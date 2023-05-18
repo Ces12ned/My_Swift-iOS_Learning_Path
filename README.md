@@ -6,27 +6,35 @@
 
 ---
 
+<h2 align="left"> Life Cycle </h2>    
+
+* ### [App Life Cycle][1] ###
+* ### [ViewController Life Cycle][2] ###
+  
+  
+  
   
 <h2 align="left"> iOS Architecture </h2>  
   
-* ### [MVC][1] ###
-* ### [MVVM][2] ###
-* ### [VIPER][3] ###
+* ### [MVC][3] ###
+* ### [MVVM][4] ###
+* ### [VIPER][5] ###
   
   
   
 
 <h3 align="left"> Functional Reactive Programming </h3>  
   
-* ### [Combine][4] ###
+* ### [Combine][6] ###
 
-
-[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVC
-[2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
-[3]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
+[1]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/App-Life-Cycle
+[2]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/ViewController-Life-Cycle
+[3]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVC
+[4]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/MVVM
+[5]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/VIPER
 
   
-[4]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
+[6]: https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/tree/Combine
  
 
   
