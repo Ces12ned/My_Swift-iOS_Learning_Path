@@ -28,6 +28,11 @@ The key thing about choosing between using a class or a struct is reference or v
 - If you need custom behavior where passing by reference is preferable, use class.
 
 
+
+### What is the Heap and the Stack?
+
+
+
 ![Stacks_vs_Heaps](https://github.com/Ces12ned/My_Swift-iOS_Learning_Path/assets/103231133/972895b2-ee0d-4f86-92c3-2dd2bfb46662)
 
 
