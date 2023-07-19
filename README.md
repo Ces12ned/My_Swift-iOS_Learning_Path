@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left"> Ways to perform Networking </h2>    
+<h3 align="left"> Ways to perform Networking </h3>    
 
 * ### [Pure URLSession][1] ###
 * ### [Using Async Await][2] ###
